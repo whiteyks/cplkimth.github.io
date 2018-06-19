@@ -4,7 +4,7 @@
     <title>Recommended update for My Application is available.</title>
 
     <!-- Write the latest version of application that is available right now inside this tag. AutoUpdater.Net reads this tag and compare it with current version of this application installed on users PC. -->
-    <version>1.0.0.1</version>
+    <version>1.0.0.2</version>
 
     <!-- This tag contains download URL of the application update. -->
     <url>https://cplkimth.github.io/autoupdater/TeacherTool.StudentClient/Release.zip</url>
